@@ -1,0 +1,51 @@
+.logo {
+margin: 10px 590px;
+height: 113px;
+width:340px;
+}
+
+.firstarea {
+    margin:auto;
+text-align: center;
+background-color: rgb(240, 240, 240);
+width: 90%;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.box1 {
+    background-color: #7ee5da;
+    width: 37%;
+    text-align: center;
+    margin-left: 75px;
+    margin-top:1px;
+    float:left;
+    height: 63px;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+.box2 {
+    background-color: #70CCC2;
+    text-align: center;
+    width: 17%;
+    float:left;
+    font-size: small;
+    margin:1px;
+    height: 73px;
+}
+
+.box3 {
+    background-color: #62B3AA;
+    text-align: center;
+    margin: 1px;
+    float:left;
+    width: 36%;
+    font-size:small;
+    height: 69px;
+    display: table;
+}
+.footer {
+    margin-top: 100px;
+    text-align: center;
+    font-size: small;
+}
